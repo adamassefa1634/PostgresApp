@@ -1,0 +1,5 @@
+CREATE TABLE flights (
+id INTEGER PRIMARY KEY,
+origin VARCHAR NOT NULL,
+destinaltion INTEGER NOT NULL 
+);\
